@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glass for England wherein is shewn God's mercies and judgments on this sinful nation; with an earnest invitation to poor sinners to repentance: wherein is set forth the great folly and madness of forsaking Christ their redeemer, and neglecting the care of their immortal souls, and setting their cares upon the vanities of this world; ... with some hints of the present judgments that now hangs over our heads, which will suddenly fall on us, if we neglect to return our thanks to almighty God for our late deliverances, and the speedy reforming of our lives. To which is added, the great joy and comfort of the godly that have harkened to the voice of the Lord, and have fasted and prayed to God for his blessings, and given thanks for all mercies received. By Robert Russel, in Sussex.</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57939</idno>
+            <idno type="STC">Wing R2347H</idno>
+            <idno type="STC">ESTC R219970</idno>
+            <idno type="EEBO-CITATION">99831414</idno>
+            <idno type="PROQUEST">99831414</idno>
+            <idno type="VID">35877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glass for England wherein is shewn God's mercies and judgments on this sinful nation; with an earnest invitation to poor sinners to repentance: wherein is set forth the great folly and madness of forsaking Christ their redeemer, and neglecting the care of their immortal souls, and setting their cares upon the vanities of this world; ... with some hints of the present judgments that now hangs over our heads, which will suddenly fall on us, if we neglect to return our thanks to almighty God for our late deliverances, and the speedy reforming of our lives. To which is added, the great joy and comfort of the godly that have harkened to the voice of the Lord, and have fasted and prayed to God for his blessings, and given thanks for all mercies received. By Robert Russel, in Sussex.</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and sold by J. Blare, at the sign of the Looking-glass, on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Designed by the author as a sequel to his, "A warning to England: or, The nations looking-glass.".</note>
+                  <note>Copy stained; closely trimmed with slight loss of print.</note>
+                  <note>Incorrect title and Wing number in reel guide.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+               <term>Religion and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35877:1" rendition="simple:additions"/>
+            <p>A Looking-glaſs for <hi>England:</hi>
+            </p>
+            <p>Wherein is ſhewn God's Mercies and Judgments on this ſinful Nation; with an earneſt Invitation to poor Sinners to Repentance: wherein is ſet forth the great folly and madneſs of forſaking Chriſt their Re<g ref="char:EOLhyphen"/>deemer, and neglecting the care of their immortal Souls, and ſetting their Cares upon the Vanities of this World; with ſome ſerious Perſwaſions for Sin<g ref="char:EOLhyphen"/>ners to forſake Sin, and to cloſe with Chriſt Jeſus, that they may avoid God's Wrath that will be poured forth againſt them at the laſt Day; with ſome Hints of the preſent Judgments that now hangs over our Heads, which will ſuddenly fall on us, if we neglect to return our Thanks to Almighty God for our late Deliverances, and the ſpeedy reforming of our Lives.</p>
+            <p>
+               <hi>To which is added,</hi> The great Joy and Comfort of the Godly that have harkened to the voice of the Lord, and have Faſted and Prayed to God for his Bleſſings, and gi<g ref="char:EOLhyphen"/>ven Thanks for all Mercies received.</p>
+            <p>By <hi>Robert Ruſſel,</hi> in <hi>Suſſex,</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>The Childred of Iſſachar,</hi> which were men <hi>that had under<g ref="char:EOLhyphen"/>ſtanding of the times,</hi>
+               </p>
+               <bibl>1 Chron. 12.32.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Behold, now is the accepted time,</hi> &amp;c.</p>
+               <bibl>2 Cor. 6.2.</bibl>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for the Author, and ſold by <hi>J. Blare,</hi> at the Sign of the <hi>Looking-glaſs,</hi> on <hi>London-bridge.</hi>
+            </p>
+            <p>
+               <hi>All the ſmall Books of this Author Bound together, Price</hi> 1 s.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35877:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:35877:2"/>
+            <head>A LOOKING-GLASS FOR <hi>ENGLAND,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>Jeremiah <hi>V. XXV.</hi>
+                  </bibl>
+                  <p>Your Iniquities have turned away theſe things, and your ſins have witholden good things from you.</p>
+               </q>
+            </epigraph>
+            <p>MY laſt Book I made which is inti<g ref="char:EOLhyphen"/>tul'd, <hi>A Warning to</hi> England; this Book has been ſo well excepted of, that I have been perſwaded by ſome of my Friends to make an Addition to it, which accordingly I am about to do, and through the Aſſiſtance of God, I will make a ſhort Addition, and add a Second Part to <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s <hi>Warning;</hi> conſidering how the Judgments of God are abroad ſtill among us, how near we have been of late to Ru<g ref="char:EOLhyphen"/>ine and Deſtruction, how our Enemies
+<pb n="4" facs="tcp:35877:3"/>of late has been plotting the Deſtruction of our gracious King and His Nobles, and with them the whole Nation, and how wonderfully God has delivered us, and brought to light all their wicked Plots and Contrivances, and to conſi<g ref="char:EOLhyphen"/>der how little Reformation there is yet wrought amongſt us, and how few mind the hand of God's Providence herein; theſe Conſiderations hath moved me to make an Addition to my former Works, and that from the ſame Subject which my laſt Book run upon: <hi>Your iniquities have turned away theſe things, and your ſins have withholden good things from you.</hi> The Do<g ref="char:EOLhyphen"/>ctrine which I have obſerved from theſe Words, has been this: <hi>That it is the Sins of a People or Nation that keeps back Mer<g ref="char:EOLhyphen"/>cy, and hinders good Things from coming upon it;</hi> from whence I ſhewed you,</p>
+            <p>Firſt, What are thoſe good Things that Sin doth withhold from a People or Na<g ref="char:EOLhyphen"/>tion, and they are,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Spiritual good Things.</item>
+                  <item>
+                     <hi>Secondly,</hi> Temporal good Things.</item>
+                  <item>
+                     <hi>Thirdly,</hi> Natural good Things.</item>
+               </list>
+            </p>
+            <p>Secondly, I ſhewed you what are thoſe
+<pb n="5" facs="tcp:35877:3"/>Sins that withholds good Things from us, and amongſt the many Sins which the Inhabitance of this Nation are guilty of, I named theſe few which are the chief, as Curſing, Swearing, Oppreſſion, Deceit, Treachery and unjuſt Dealing, Pride, Drunkenneſs and neglect of Fa<g ref="char:EOLhyphen"/>mily-Duties, and the Unfruitfulneſs un<g ref="char:EOLhyphen"/>der the means of Grace, together with a ſad profaning of the Lord's Day, and not regarding thoſe days of Faſting and Hu<g ref="char:EOLhyphen"/>miliation, which our King and Govern<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs have been pleaſed to ſet apart, for us to joyn together in wraſling with God, by our Prayers and Humiliations, that God might remove his Judgments from us, and turn away from the fierceneſs of his Wrath that we periſh not. Theſe things I have ſufficiently wrought about, and made ſome little Application of it, and exhorted us all to repent, amend, and reform our Ways and Doings for the Lord's, and for the King and Nati<g ref="char:EOLhyphen"/>on's ſake, that the Lord do not break forth in Wrath againſt us. Now what I have to write more in addition to the former Book, ſhall be by making ſome
+<pb n="6" facs="tcp:35877:4"/>further Application, and there are only theſe two particular Uſes that I ſhall make of it:
+<list>
+                  <item>
+                     <hi>First,</hi> Of Reproof.</item>
+                  <item>
+                     <hi>Secondly,</hi> Of Exhortation.</item>
+               </list>
+            </p>
+            <p>
+               <hi>First,</hi> I ſhall ſpeak by way of Reproof, theſe may juſtly come under Reproof, who ſlight or profane thoſe Days of Hu<g ref="char:EOLhyphen"/>miliation and of Thankſgiving which are publiſhed by Authority; our Governers have been graciouſly pleaſed to ſet apart Days of Humiliation, that by our earn<g ref="char:EOLhyphen"/>eſt Prayers, and humbling of ourſelves, we might ſtand in the gap and ſtop God's Wrath from coming forth againſt us, and indeed it is a very great Mercy that it has pleaſed Almighty God to put it into the Hearts of our King and Rulers to ſet apart Days of Faſting and Humiliation, where<g ref="char:EOLhyphen"/>by we might beſeech God to remove his Judgments from us; but, alas! how is this great Mercy ſlighted and contemned, eſpecially among the poorer ſort? many poor People I myſelf have ſeen on a Faſt<g ref="char:EOLhyphen"/>ing-day in the Fields at work, and if they are told of it, they will ſay, Why it is not Sunday, and I have a Family to maintain,
+<pb n="7" facs="tcp:35877:4"/>they muſt have Bread to eat, and I hope I may pray to God with as good a Heart, that he might make the King ſuccesful in his undertaking, that God would Bleſs and Protect him, and deliver us from our Enemies; I hope I may do it with as good a Heart at my Work, and God will ex<g ref="char:EOLhyphen"/>cept it as well as if I went to joyn with others in publique; ſuch Replies as theſe ſome will make, juſt like unto thoſe who were invited to the great Goſpel-Feaſt, <hi>Luke</hi> 14.18, 19, 20. Every one had his Excuſe to make, one had bought a peice of Ground, and I muſt go and ſee that, another had bought a yoke of Oxen and he muſt prove them, and ano<g ref="char:EOLhyphen"/>ther had Married a Wife and therefore he could not come; now ſee how the Lord was wrath againſt them, <hi>ver.</hi> 24. he reſolved that none of thoſe which were bidden ſhould taſte of his Supper; ſo Friends it may be with you, if you ſlight and contemn that great Good and precious Mercy, that God has made our Rulers Inſtruments of ſetting apart Days of Faſting and Humiliation, as a means that God may be pleaſed with to remove
+<pb n="8" facs="tcp:35877:5"/>his Judgments from us; I ſay if you thus ſlight and contemn this great Good, and will plead Poverty and Neceſſity, and will not ſpare ſo much time as to joyn with the Aſſembly of God's People, and ſpend one Day with them in pleading with the Lord in the behalf of this ſinful Nation; you muſt not expect that God ſhould hide you under the ſhadow of his Wings in times of calamity; and if it pleaſe God to bleſs this Nation with a laſting Peace and Plenty, which the Lord grant, yet in reſpect of your own parti<g ref="char:EOLhyphen"/>cular caſes, the Lord may in his Wrath juſtly Swear againſt you, that you ſhall never be made Partakers of thoſe Bleſ<g ref="char:EOLhyphen"/>ſings and Benefits, which he is pleaſed to beſtow upon the Nation, nor yet to par<g ref="char:EOLhyphen"/>take of thoſe eternal Bleſſings which he hath prepared for his true Worſhippers, and Followers in the World to come, and for ever ſhat out of his comfortable and bleſſed preſence, into that place of Dark<g ref="char:EOLhyphen"/>neſs where is weeping and gnaſhing of Teeth.</p>
+            <p>Beloved Friends, if when a Faſting-day comes, you do ſot a part yourſelves
+<pb n="9" facs="tcp:35877:5"/>from the World, and from all your world<g ref="char:EOLhyphen"/>ly Buſineſs on that Day, and ſpend that one Day in waiting on the Lord in pub<g ref="char:EOLhyphen"/>lick, and alſo in private to humble yourſelves, and to plead with the Lord for Mercy both to youſelves and the Na<g ref="char:EOLhyphen"/>tion: I will aſure you that you ſhall be no loſer by it, but rather a great gainer, for God will proſper your Labour the better on other days, and will bleſs you in all your Undertakings; God has paſt his Word for it, that there ſhall be no Lake to ſuch that fear him, that ſerve and worſhip him, <hi>Pſa.</hi> 34.9.10. and tho' the Lions do want and ſuffer Hunger, yet they that ſeek the Lord ſhall not want any good thing; and godlineſs hath the Promiſe of the Life that now is, as well as of that to come, 1 <hi>Tim.</hi> 4.8. and yet will you miſtruſt God's Promiſe; but if you will not on a publick Faſting-day, or Thankſgiving-day, ſet apart yourſelves from the World and your worldly Affairs, to joyn with the Congregation of God's People; you cannot expect God ſhould proſper your Labour on other Days, and then you will have Loſſes, Croſſes, Vex<g ref="char:EOLhyphen"/>ations
+<pb n="10" facs="tcp:35877:6"/>and Diſappointments, and if you have you muſt thank yourſelves for it, becauſe you grudge to give any part of your time to God, when you are called to it by Authority, tho' it be for your own and the Nation's Good.</p>
+            <p>Beloved Friends, our King and Rulers will be pleaſed to ſet apart Days of Hu<g ref="char:EOLhyphen"/>miliation and Faſting this Summer, (as I hope they will, for I think never was there more need then now) for the Lord's ſake don't ſlight and contemn them leſt God ſhould ſlight and contemn you in times of Judgment and Calamity. Friends, many of you, when there comes any Holyday-time, as <hi>Chriſtmaſs,</hi> and <hi>Eaſt<g ref="char:EOLhyphen"/>er,</hi> many of you then can ſpare time to indulge your Fleſh, and to enjoy your ſelves, and yet cannot ſpare a Day to worſhip God, and to ſeek to him for Mercy for yourſelves and the Nation, when your called off from your Imploy<g ref="char:EOLhyphen"/>ments to do it by Authority: O! what cauſe have you to lay Shame upon your ſelves for ſo doing, that you ſhould pre<g ref="char:EOLhyphen"/>fer your own Proſit, nay, your own Plea<g ref="char:EOLhyphen"/>ſure before the Honour of God, and the
+<pb n="11" facs="tcp:35877:6"/>Publick Good? Friends, as for Saints Days and for <hi>Chriſtmaſs</hi>-holydays, <hi>Eaſter</hi>-holydays, and <hi>Whitſund</hi> holydays, only <hi>Chriſtmaſs</hi> Day excepted, as for all other Holydays and Saints Days, if you have a mind to improve your time to the beſt advantage for the getting a Livelyhood in this World, why then follow your worldly Imployments then and welcome, but for the Lord's ſake, and for your own ſakes, and for the ſake of the Nation, dont be ſo eager after the World as to ſlight God's Mercies, and to grutch to keep holy to God ſuch Days, as our King and Governors are pleaſed to ſot a<g ref="char:EOLhyphen"/>part, for Days of Faſting, Humiliation and Thankſgiving: O be not ſuch a Di<g ref="char:EOLhyphen"/>ſpiſer of God's Laws, nor ſuch a Rebeler againſt the King and Country; but I have heard ſome People ſay on a Faſt-day, that they had thought to have gone to Church and to have joyned in the publick Con<g ref="char:EOLhyphen"/>gregation, but that they ſaw ſo many go to Work, and ſome to that have not ſo much need to Work as them<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and therefore they think that they may ſafely. Work too, and do as they do. This I
+<pb n="12" facs="tcp:35877:7"/>have heard ſome ſay or to the like effect; why Friends this is juſt the courſe of the Country, ſome will go to the Alehouſe to be drunk, becauſe they ſee others go to the Alehouſe; ſome will take liberty to live looſe, lacivious, debauch'd Lives becauſe they ſee others do the like; ma<g ref="char:EOLhyphen"/>ny will walk the broad way to Hell and Diſtruction, becauſe they ſee Multitudes beſides them walk in that broad way, juſt like unto a flock of Sheep, becauſe one leaps into the River and is drownd<g ref="char:EOLhyphen"/>ed, therefore all the reſt will follow af<g ref="char:EOLhyphen"/>ter; but Friends it is our duty to walk by Rule and by Example; if we ſee many others ſin againſt God, rebel againſt their Prince, and tranſgreſs the good and ſa<g ref="char:EOLhyphen"/>cred Laws of the Nation, does this make that we do ſo too? My Friends, if we will do as others do, we muſt look in time of Deſolation and Calamity to ſpeed as they ſpeed. And now, my Friends, if our gra<g ref="char:EOLhyphen"/>cious King and Rulers will be pleaſed to ſet apart Days of Faſting and Humiliati<g ref="char:EOLhyphen"/>on this Summer, let us thankfully except of them, and obſerve them to thoſe pre<g ref="char:EOLhyphen"/>cious ends for which they are ſet apart:
+<pb n="13" facs="tcp:35877:7"/>O for ſhame, for ſhame be not in the Fields, or in the Woods, or in the Barns, or in your Shops at work, when you ſhould be at Church among the Congre<g ref="char:EOLhyphen"/>gation of God's People a confeſſing and bewailing your Sins, and the Sins of the Nation, a begging pardon for them, a hearing God's Word, and interceeding and pleading at the Throne of Grace, for Mercy for yourſelves, and for the whole Nation; but I am afraid that there are many that would preſume to Work in there Callings on the Sabbath-days if the Laws of Man did not reſtrain them, and if ſo, no wonder then if they ſo little re<g ref="char:EOLhyphen"/>gard thoſe days of Humiliation appoint<g ref="char:EOLhyphen"/>ed by Authority: But in the ſecond place, there are yet another ſort that muſt come under reproof, that is ſome that are not of the poorer ſort; but thoſe that are rich Men and Farmers though they ob<g ref="char:EOLhyphen"/>ſerve to keep a Faſt-day themſelves when it comes, yet herein they are very much to be blamed, in that they will let their poor Day-labourers alone, and will give them their liberty to do what they pleaſe, they may work or not, which thou pleaſe,
+<pb n="14" facs="tcp:35877:8"/>but as for themſelves they go to Church, and will cauſe their Servants both Men and Maidens to go to Church with them. Now, my Friends, in doing this, ſo far you do well, but then you ought to com<g ref="char:EOLhyphen"/>pel your Day-labourers to go to Church with you and not give them leave to Work if they will, but compel them to go along with you to Church, and to joyn with you in publick, to plead with you at the <hi>throne of Grace,</hi> for publick Mer<g ref="char:EOLhyphen"/>cies and Deliverances. Friends, let me prevail with you to compel not only your Servants but alſo your Labourers to go with you to the throne of Grace, in pub<g ref="char:EOLhyphen"/>lick as ever you would deſire that they partake of publick Mercies with you<g ref="char:EOLhyphen"/>ſelves, and as you deſire they ſhould be in times of Calamity as well as you.</p>
+            <p>But then, <hi>Thirdly,</hi> there are another ſort may juſtly come under Reproof, that is, there are ſome that when a Faſt-day comes, they will go to Church and joyn themſelves in publick Prayers and Exer<g ref="char:EOLhyphen"/>eiſes, and whilſt they are there they ſeem very devout in Prayer, and diligent in at<g ref="char:EOLhyphen"/>tending on the Word; and then after<g ref="char:EOLhyphen"/>wards
+<pb n="15" facs="tcp:35877:8"/>the reſt of the Day they ſpend in the Ale-houſe among their ſinful Compa<g ref="char:EOLhyphen"/>nions, and perhaps at night they come home more then half Drunk from the Ale-houſe, and ſo they ſin to keep a Faſt, but it is but a mook Faſt, and ſo inſtead of ſtanding in the Gap to ſtop God's Judg<g ref="char:EOLhyphen"/>ments from coming upon themſelves and the Nation, they by their hypocricy and diſſimulation and wicked doings, pro<g ref="char:EOLhyphen"/>voke God to haſten his Judgments upon them, and theſe ſort of People are as bad or worſe then thoſe that Work all day and keep no Faſt at all; theſe Men are like unto thoſe the Peophet <hi>Amos</hi> com<g ref="char:EOLhyphen"/>plains of, <hi>Amos</hi> 6.6. <hi>That drink wine in bowls, and anoint themſelves with the chief oyntments: but they are not grieved for the affliction of Joſeph.</hi> Thus many Men will drink and ſing, and indolge the Fleſh, but don't conſider what a diſtreſſed and afflicted condition poor <hi>England</hi> is in: but perhaps ſome may be ready to ſay, <hi>How ſhall we do to keep a true and excepted Fast to the Lord.</hi> I anſwer A true Faſt doth not conſiſt in faſting from corporal Food, but it conſiſteth chiefly in mourn<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:35877:9"/>for Sin, in cruciſing and mortifying Sin and fleſhly Luſt, and turning from it and forſaking it; but if you deſire indeed to keep a true and acceptable Faſt, I ſhall be willing to give you di ections how to do it in a few word; when a publick Faſt-day comes, reſolve with yourſelves to ſet apart yourſelves from the World, for that Day as on a Sabbath-day, and in the morning, as ſoon as you awake, conſi<g ref="char:EOLhyphen"/>der with yourſelves what a worthy Work you are a going about that Day, and lift up your heart to God in Prayer, that he would inable you to go through with it, and this done, then look back upon your Life paſt, ſearch and examine diligently your Hearts and Lives to find out your Sins, together with the time, place, cir<g ref="char:EOLhyphen"/>cumſtances and manner how they were committed, and then ſpread them all be<g ref="char:EOLhyphen"/>fore the Lord by a hearty and ſincere Confeſſion, ſearch diligently to find out all your hypocracy and rottenneſs of Heart, all your beloved and fleſh-pleaſing Sins, and then labour to bring them cloſe to your Conſicience, and then confeſs them with as much contrition and bro<g ref="char:EOLhyphen"/>kenneſs
+<pb n="17" facs="tcp:35877:9"/>of Heart as you can, and then be earneſt with God at the throne of Grace, that he would give you a full diſcharge, that he would pardon them and waſh them away in the Blood of Chriſt, and then likewiſe be earneſt with the Lord for ſtrength and power to overcome them, and then make a firm reſolution with yourſelves, in the ſtrength of Chriſt to forſake them and to endea<g ref="char:EOLhyphen"/>vour to lead a new Life, and this Work, if done throughly, will take up your Morning time, and then when this is done, go to Church amongſt God's People in publick, in confeſſing and bewail<g ref="char:EOLhyphen"/>ing your Sins, and the Sins of the Nation, and pleading with them at the Throne of Grace, that God would look in mercy upon this ſinful Nati<g ref="char:EOLhyphen"/>on, and that he would remove his Judgments from us, and alſo that God would proſper the King in his Undertaking, and ſhield and defend him from all Plots and Conſpiracies of his blood-thirſty Enemies; and then when publick Exerciſe is ended, let not the evening of the Day be ſpent in vain Pleaſures and ſinful Delights, but after you come home to refreſh your Bodies with the good things of this Life, for until that time it is con<g ref="char:EOLhyphen"/>venient, if you can bear it, to faſt from Food all the Day beſides, until you come home from pub<g ref="char:EOLhyphen"/>lick Exercices, ſo that you be not thereby diſen<g ref="char:EOLhyphen"/>abled to perform the Work of the Day, that by faſting you might afflict your Bodies as well as your Souls; but however, after publick Exerciſes is ended, and when you come home and recruit<g ref="char:EOLhyphen"/>ed yourſelyes with Food, let not the evening of
+<pb n="18" facs="tcp:35877:10"/>the Day be ſpent vainly and idlely, but go every one in private, and thoſe pour out your Souls to God, and wreſtle with him for pardoning and re<g ref="char:EOLhyphen"/>newing Grace and Mercy to your own Souls, and for publick Mercies to this Nation, and let the reſt of the Evening be ſpent in Reading, Prayer, and ſuch holy Exerciſes. And now let me ſpeak a word or two to the Rich, and ſuch as are bleſ<g ref="char:EOLhyphen"/>ſed with the good things of this Life, I deſire you not to think that you have done enough when you have diſtributed ſomething to the Poor in a way of Collection amongſt the Congregation, but let me beſeech every one of you that dayly imploy poor Labourers, that when publick Exerciſes are end<g ref="char:EOLhyphen"/>ed, that you would invite them home to your Hou<g ref="char:EOLhyphen"/>ſes, and alſo their Wives and Children, and others of your poor Neighbours that live near you; be perſwaded to invite them home to your Houſes, ſet them at your Tables, and cauſe them to par<g ref="char:EOLhyphen"/>take with you of thoſe bodily Refreſhments as God in his Mercy hath given unto you, and then you will find that you will be no looſer, for this is the way to bring a Bleſſing upon your Heads and upon your Stores, this is to keep unto the Lord a true Faſt indeed, this is that Faſt which the Lord hath choſen, as the Lord ſpake by the Prophit, <hi>Iſa.</hi> 58.4, 5, 6, 7. <hi>It is not to take our own pleaſure, and to ſmite with the fiſt of wicked<g ref="char:EOLhyphen"/>neſs.</hi> But faith the Lord, <hi>This is the faſt that I have choſen, to looſe the bands of wickedneſs, to undo the heavy burdens, and to let the oppriſſed go <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and that you break every yoke <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> It is not to
+<pb n="19" facs="tcp:35877:10"/>deal thy bread to the hungry, and that thou bring the poor that are caſt out to thy houſe? when thou ſeeſt the naked, that thou cover him, and that thou bide not thyſelf from thine own fleſh?</hi> Now this is the Faſt which the Lord will except, and he'll re<g ref="char:EOLhyphen"/>ward you abundantly, both in this World and the World to come; you have a faithful Promiſe for it in Scripture, Prov. 19.17. <hi>He that hath pity on the poor, lendeth unto the Lord; and that which he hath given, will he pay him again.</hi>
+            </p>
+            <p>And now as I have ſpoken by way of Reproof and Exhortation, to ſuch as prophane Days of publick Faſting and Humiliation, ſo alſo I muſt ſpeak or write a few words by way of Reproof and Exhortation to ſuch as profane Days of publick Thanksgiving for Mercies and Deliverances; but you may ſay, <hi>How are Dayes of publick Thankſ<g ref="char:EOLhyphen"/>giving profaned:</hi> Now to anſwer this Objection, It is a general courſe amongſt us here in <hi>England,</hi> that when there is a Day of Thanksgiving appoint<g ref="char:EOLhyphen"/>ed by Authority, to return Prayers and Thanks to God for publick Deliverance or publick Preſerva<g ref="char:EOLhyphen"/>tion; it is, I ſay, a general cuſtom among us, eſ<g ref="char:EOLhyphen"/>pecially in Cities and great Towns, after publick Exerciſe is ended, to prophane the Day by Drink<g ref="char:EOLhyphen"/>ing, Ringing, Shooting and making of Burnfires, and if a Day of Thankſgiving be appointed to be on a Sabbath-day, it is all one with moſt People, they regard no more God's own Day than they do any other Day in the Week: and now I muſt take occaſion to write ſomething againſt a great Evil that has of late years been done in the Land,
+<pb n="20" facs="tcp:35877:11"/>whether it be occaſioned by the Biſhops, or who<g ref="char:EOLhyphen"/>ever they be that are the occaſion of it. I cannot but think it to be a very great Evil, and there<g ref="char:EOLhyphen"/>fore I muſt venter to write ſomething againſt it, and it is this, that after a delivering or preſerving Mercy vouchſafe to the King and Kingdom, and our Rulers has been pleaſed to appoint a Day of publick Thankſgiving, to return Praiſe to Almigh<g ref="char:EOLhyphen"/>ty God for his Mercies: this Day of Thanſgiving of late Years has been cellebrated on the Lord's Day: Now I take this to be a great Evil provo<g ref="char:EOLhyphen"/>king to God, and that in theſe two reſpects,</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe, in ſo doing, we change God's Inſtitution, for the Sabbath was inſtituted and or<g ref="char:EOLhyphen"/>dained by God to be a Day of Thankſgiving up<g ref="char:EOLhyphen"/>on a higher Account, and we are required to ſpend it in Prayers and Thankſgiving for a greater de<g ref="char:EOLhyphen"/>liverance than any temporal deliverance, even our deliverance from Sin, Hell, and Damnation, by the Reſurrection of Jeſus Chriſt: now for us to make uſe of the Lord's own Day to return Thanks and Praiſe only for a Temporal-deliverance, this is to change God's Inſtitution, and to diſhonour his own Day by uſing of it to a lower end than God inſtituted it for, ſure there are Days enough in the Week for us to Praiſe God for National-deli<g ref="char:EOLhyphen"/>verance; but ptay miſtake me not, I grant that we ought to praiſe Almighty God on the Sabbath-days, and on the Week-days, and at all times for National-mercy; but that which I write againſt is the ſetting of the Lord's Day apart, and inſti<g ref="char:EOLhyphen"/>tuting of it to be a Day of publick Thanksgiving
+<pb n="21" facs="tcp:35877:11"/>whith was inſtituted by God for a more high and nobler end. Friends, conſider that the Sabhath is the Lord's Day, and if we cannot afford to ſet a<g ref="char:EOLhyphen"/>part a Day in the Week, one of our own Days, to render Thanks and Prayers to God for natio<g ref="char:EOLhyphen"/>nal Mercies, we ſhew ourſelves to be ill diſerving of thoſe Mercies and Deliverances which God has beſtowed upon us, and may juſtly expect him to leave us, and withdraw himſelf from us.</p>
+            <p>
+               <hi>Secondly,</hi> For us to inſtitute the Lord's Day to be a Day of publick Thankſgiving is a great E<g ref="char:EOLhyphen"/>vil, alſo upon this Account, becauſe it occaſions a moſt dreadful proſanation of the Lord's Day, by Drinking, Ringing and making of Burnfires, this is a vain way of rejoycing at any time, but it is much <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re abominable on the Lord's Day, and when a publick Thanſgiving is appointed on a week Day, how many there be that go to Church to hear God's Word, and to praiſe him for the firſt part of the Day, and then when publick Ex<g ref="char:EOLhyphen"/>erciſes is ended, away they go to Ringing, and then to the Ale-houſe to Drinking, and the Boys they muſt run from Houſe to Houſe begging for for Faggots to make a Burnfires, when as many poor People are ready to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>arve ſo a cold Winter becauſe they cannot get wood to burn, and I ve<g ref="char:EOLhyphen"/>rily think that there is as many Faggots waſted away on a publick Thankſgiving-day, in <hi>England,</hi> as would ſuffice many hundreds of poor People for a whole Winter, and then there muſt be Shooting and ſlinging of Squibs and Fire-brands one at a<g ref="char:EOLhyphen"/>nother, and many times there is ſome miſchief done
+<pb n="22" facs="tcp:35877:12"/>to one another before they have done. Pray Friends conſider what a provoking thing this muſt needs be, for People thus to play the Hypocrite with God, they will go to Church on a ſhankſgiving-day in the forenoon to bleſs and praiſe God for his Mercies, and then in the afternoon they will abuſe him to his face with his own Mercies; this is juſt as if a Friend of yours ſhould do you ſome great Kindneſs, and then you to gratifie him for his Kindneſs, ſhould pretend to give him many hearty Thanks, and uſe many kind Speeches to him, and then as ſoon as you have done, take a lump of durt and ſling in his face. Why Friends, thus many of you deal wich God in your way of giving of him thank, for your Mercies and Deli<g ref="char:EOLhyphen"/>verances, the Apoſtle tells us, <hi>Rom</hi> 14. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>that regardeth the day, regardeth it to the Lord; and he that regardeth not the day, to the Lord he doth not regard it:</hi> So he that obſerveth a Day of Thankſgiving to the Lord, he ſpends it in holy Meditation, Hearing and Reading, Prayer and Praiſes, and ſinging of Pſalms; but he that ob<g ref="char:EOLhyphen"/>ſerves a Day of Thankſgiving only to Drink and Sing, and Rlog, and make Burnfires, he doth not obſerve it to the Lord, but to his Luſt, and the Apoſtle bids-us rejoyce in the Lord, <hi>Pill.</hi> 4.4. but to rejoyce by Drinking, Singing, and making of Burnfires, this is not to rejoyce in the Lord, but in your fleſh-pleaſing Luſt. Beloved Friends, when a Day of publick Thankſgiving comes to be prevailed with, to ſpend the whole Day both in publick exerciſes of Religion, in Meditation, Pray<g ref="char:EOLhyphen"/>er
+<pb n="23" facs="tcp:35877:12"/>and Praiſes, and ſinging of Pſalms, and after publick Exerciſes are ended, if it be on a Week-day, and you have a deſire to ring a peal in token of joy, for the the ſafe deliverance from your E<g ref="char:EOLhyphen"/>nemies, you may do it ſo it be in a civil ſober way, without going to the Ale-houſe to drink<g ref="char:EOLhyphen"/>ing; pray keep yourſelves from the Ale-houſe at ſuch a time as that is; but beſides all this, what<g ref="char:EOLhyphen"/>ever you do, pray don't let no more Bunrfires be made in <hi>England,</hi> there is no way of rejoycing can be worſe than to rejoyce by Fire; this is the Papiſt way of rejoycing, they triumph and rejoyce by Burnfires, and I know you profeſs yourſelves to hate Popery; and if you do, why do you imi<g ref="char:EOLhyphen"/>tate the Papiſt ſo much as to follow their Actions?</p>
+            <p>Beloved Friends, If you have ſuch a delight to make Bunrfires, it may pleaſe God to give your Enemies the upper-hand, and then they will make you Burnfires, even ſuch Burnfires as they made for the Proteſtants in the Days of Queen <hi>Mary;</hi> and now in the cloſe of all, let me write a few words to the Rich, and to ſuch as uſe to give Fa<g ref="char:EOLhyphen"/>gots towards making of Burnfires, let me prevail with you, that when publick Exerciſes is done on a Thankſgiving-day, that you would invite all your Neighbours that are poor and needy home to your Houſes to dinner with you, and ſpend the afternoon with them, in diſcourſe about the Sermon you heard, and of God's miraculous de<g ref="char:EOLhyphen"/>liverance of his People in ancient Times, and ſpend ſome time in Reading and Praying with them, and then when they are a returning to their homes,
+<pb n="24" facs="tcp:35877:13" rendition="simple:additions"/>ſo many Faggots as you uſe to give towards ma<g ref="char:EOLhyphen"/>king of Burnfires, be perſwaded to beſtow upon them, to carry home with them, to warm and comfort them in a cold Winter, and do not let them be burn<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and conſumed in waſte, in Burn<g ref="char:EOLhyphen"/>fires, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no body no good, but to pleaſe young Peoples fooliſh fancy, and Wood is ſo dear that many poor People are like to ſtarve in a cold Win<g ref="char:EOLhyphen"/>ter, becauſe they cannot get Wood to Burn: there<g ref="char:EOLhyphen"/>fore let me deſire you to beſtow your Faggots up<g ref="char:EOLhyphen"/>on thoſe who are poor and needy to warm and comfort them, and in ſo doing you will offer up ſuch a Thanks-offering to the Lord, as will aſcend up a ſweet Savour unto him, whereby he will turn to us in Mercy, and will bleſs this Nation, and us all with a laſting Peace and Happineſs: Now conſider on theſe things, and the Lord give you Underſtanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35877:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
